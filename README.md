@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Anotidaishe 👦🏾
+I’m currently learning web development and software development 🔭 
 <!--
 **tapswxxho/tapswxxho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
